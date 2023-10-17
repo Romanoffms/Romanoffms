@@ -5,6 +5,19 @@
 <h3 align="left">В моем профиле вы можете найти мои проекты, выполненные во время обучения Яндекс Практикум. Изучаю возможности языка Python.</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Активно+ищу+работу+в+аналитике+данных)](https://git.io/typing-svg)
+
+<div id="badges", align="center">
+  <h3> Связаться со мной: </h3>
+</div>
+
+<div id="badges", align="center">
+   <a href="https://t.me/romanoffms">
+     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+
+   <a href="mailto:romanoff_ms@mail.ru">
+  <img src="https://img.shields.io/badge/mail-blue?style=for-the-badge&logo=mail&logoColor=white" alt="Mail Badge"/>
+  </a>
+</div>
 <h2 align="center">Иструменты аналитики </h2>
 <h3 align="left">Владею инструментами обработки и визуализации данных.</h3>
 
